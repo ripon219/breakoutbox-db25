@@ -1,0 +1,11 @@
+Bill of Material for PCB_OBOB.PrjPcb
+On 2009-09-15 at 19:55:01
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 5000750517          5000750517       1    miniUSB                      USB On-The-Go (OTG) Mini-B Receptacle, Right Angle, Thru-Hole, 0.80mm (.031") Pitch, Solder Tails & Shell Tabs with Dimples 
+ 52830-6615          52830-6615       4    Aaxis, Xaxis, Yaxis, Zaxis   Right Angle, Standard Profile, with Metal Peg PCB Jack 
+ ADuM1200CRZ                          4    OK1, OK2, OK3, OK4                                
+ ADuM1200CRZ         R-8_N            1    OK5                                               
+ D Connector 25      DSUB1.385-2H25A    1    DB25                         Receptacle Assembly, 25 Position, Right Angle 
+ Header 2            HDR1X2           1    EXTPWR 5VDC                  Header, 2-Pin        
