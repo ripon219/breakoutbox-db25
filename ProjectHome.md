@@ -1,0 +1,1 @@
+Isolerade I/O för DB25, används till CNC , MACH3 eller liknande
